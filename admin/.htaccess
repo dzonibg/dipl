@@ -1,0 +1,4 @@
+AuthUserFile /var/www/html/dipl/admin/.htpasswd
+AuthName "Authorization Required"
+AuthType Basic
+require valid-user
