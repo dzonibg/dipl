@@ -7,4 +7,5 @@ Fully procedural PHP created PC parts shop. Proof of concept for various protect
 Working live version: https://dipl.nikola.eu.org
 Admin panel: /admin (used to be protected via htaccess but open now)
 Documentation on AC work: https://dipl.nikola.eu.org/docs/DiplomskiRad.pdf
+
 Mentor: Aleksandar Jevremovic
